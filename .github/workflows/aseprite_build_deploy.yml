@@ -69,6 +69,7 @@ jobs:
        matrix:
          os: [windows-latest]
          # , ubuntu-latest, macOS-latest
+         # ciallo ～(∠・ω< )⌒☆
        fail-fast: false
     steps:
       - name: (Windows) Install dependencies
